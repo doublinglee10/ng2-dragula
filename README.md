@@ -28,8 +28,10 @@ Try out the [demo](http://valor-software.github.io/ng2-dragula/index.html)!
 
 You can get it on npm.
 
+**publish for angular v5**
+
 ```shell
-npm install ng2-dragula --save
+npm install ng-dragula --save
 ```
 
 # Setup
